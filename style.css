@@ -1,0 +1,15 @@
+.center{
+    text-align: center;
+    color: blueviolet;
+    background-color: rgb(255, 187, 141);
+}   
+
+.letraycolor{
+color: rgb(194, 149, 236);
+font-size: larger;
+font-family: Geneva, Tahoma, sans-serif;
+}
+
+.img {
+size: 40cm;
+}
